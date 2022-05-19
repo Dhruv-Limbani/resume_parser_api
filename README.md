@@ -1,6 +1,6 @@
 # Resume Parser :page_facing_up:
 ## The main objective of this API is to Parse and Analyse the resume uploaded by the user.
-### It is yet to be optimized to return the necessary parameters required by ATS to scan applicant's resume like:
+### It is yet to be optimized to return the necessary parameters required by ATS :desktop_computer: to scan applicant's resume like:
 1. Skills
 2. Experience
 3. Qualifications
